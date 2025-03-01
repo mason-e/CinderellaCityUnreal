@@ -12,7 +12,9 @@ Open the level anchor-demo (the only level in the project) if for some reason it
 
 ## Playing the Simulation
 
-I have not published any complete builds as the project is still in too much of a WIP state. It can be played inside the Unreal editor for now.
+There are build artifacts in the repo, although they haven't been tested on a machine outside of my development machine. If the whole repo is cloned, then presumably the .exe file in Build/Windows/CinderellaCityUnreal.exe should play on Windows.
+
+The controls are listed in-game on the screen. Press the escape key to quit.
 
 ## Other Details
 
