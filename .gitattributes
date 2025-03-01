@@ -20,8 +20,8 @@
 *.sln eol=crlf
 *.csproj eol=crlf
 *.asset eol=lf
-
 # no longer needed, but keeping in case folder-based LFS syntax is useful in the future
-
 #Cinderella[[:space:]]City[[:space:]]Project[[:space:]]Master/EXEs/**/* filter=lfs diff=lfs merge=lfs -text
 #_builds/**/* filter=lfs diff=lfs merge=lfs -text
+*.pdb filter=lfs diff=lfs merge=lfs -text
+*.ucas filter=lfs diff=lfs merge=lfs -text
